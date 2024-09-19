@@ -1,7 +1,7 @@
 ## Olá, me chamo Rafael Murayama. Seja bem-vindo(a) ao meu github 👋 
 - 🔭 Atualmente estou focado em estudar react.
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=yeblu)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <div style="display: inline_block"><br>
