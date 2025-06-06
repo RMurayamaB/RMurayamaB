@@ -1,5 +1,4 @@
 ## Olá, me chamo Rafael Murayama. Seja bem-vindo(a) ao meu github 👋 
-- 🔭 Atualmente estou focado em estudar react.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMurayamaB&layout=compact)
 
